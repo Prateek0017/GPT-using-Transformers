@@ -11,13 +11,13 @@
 ### [Task_2 on kaggle](https://www.kaggle.com/code/prateekupadhayay/task-2)
 ### [Task_3 on kaggle](https://www.kaggle.com/code/prateekupadhayay/task-3)
 ---
-Output
+## Output
 ![Code-output](Task1output.png)
 
 ---
 
 
-Refrences-
+## Refrences-
 - DDP: https://pytorch.org/tutorials/intermediate/ddp_tutorial.html  
 - FSDP: https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html  
 - Referred to the GPT-2 paper and Andrej Karpathy’s nanogpt  
